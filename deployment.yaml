@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: simple-node
-        image: YOUR_DOCKER_HUB/simple-node
+        image: godoncode/simple-node
         ports:
         - containerPort: 80
